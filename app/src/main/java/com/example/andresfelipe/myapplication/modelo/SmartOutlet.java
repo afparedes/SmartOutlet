@@ -10,4 +10,15 @@ public class SmartOutlet {
     public void cargarModelo(){
 
     }
+    public void onOff(int id,boolean on){
+
+    }
+    public void autenticarUsuario(){
+
+    }
+    public void conectarDispositivo(long id){
+
+    }
+
+
 }
