@@ -5,7 +5,9 @@ package com.example.andresfelipe.myapplication.modelo;
  */
 public class SmartOutlet {
 
-    private String id;
+    private String url;
+    private long id;
+
     public SmartOutlet(){
 
     }
